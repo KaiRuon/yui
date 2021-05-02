@@ -938,7 +938,7 @@ h3 {
 }
 
 .banner-3 {
-  background-image: url(../img/banner/banner-3.png);
+  background-image: url(../img/banner/banner-3.jpg);
 }
 
 .service_area {
@@ -1002,11 +1002,11 @@ h3 {
 }
 
 .video_bg {
-  background-image: url(../img/banner/banner-2.png);
+  background-image: url(../img/banner/banner-2.jpg);
 }
 
 .video_bg2 {
-  background-image: url(../img/banner/banner-1.png);
+  background-image: url(../img/banner/banner-1.jpg);
 }
 
 .video_area {
@@ -1458,7 +1458,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_footer.scss */
 .footer-bg {
-  background-image: url(../img/banner/footer-bg.png);
+  background-image: url(../img/banner/footer-bg.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_footer.scss */
@@ -1617,7 +1617,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_breadcam.scss */
 .breadcam_bg_1 {
-  background-image: url(../img/banner/common.png);
+  background-image: url(../img/banner/common.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_breadcam.scss */
@@ -1790,35 +1790,35 @@ h3 {
 }
 
 .takeout_bg_1 {
-  background-image: url(../img/order/takeout.png);
+  background-image: url(../img/order/takeout.jpg);
 }
 
 .takeout_bg_2 {
-  background-image: url(../img/order/takeout-2.png);
+  background-image: url(../img/order/takeout-2.jpg);
 }
 
 .menu_bg_1 {
-  background-image: url(../img/order/menu-1.png);
+  background-image: url(../img/order/menu-1.jpg);
 }
 
 .menu_bg_2 {
-  background-image: url(../img/order/menu-2.png);
+  background-image: url(../img/order/menu-2.jpg);
 }
 
 .menu_bg_3 {
-  background-image: url(../img/order/menu-3.png);
+  background-image: url(../img/order/menu-3.jpg);
 }
 
 .menu_bg_4 {
-  background-image: url(../img/order/menu-4.png);
+  background-image: url(../img/order/menu-4.jpg);
 }
 
 .menu_bg_5 {
-  background-image: url(../img/order/menu-5.png);
+  background-image: url(../img/order/menu-5.jpg);
 }
 
 .menu_bg_6 {
-  background-image: url(../img/order/menu-6.png);
+  background-image: url(../img/order/menu-6.jpg);
 }
 
 .long_height {
@@ -3080,7 +3080,7 @@ h6 {
 
 /* line 798, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center
+  background: url(../img/elements/primary-check.jpg) no-repeat center
     center/cover;
   border: none;
 }
@@ -3123,7 +3123,7 @@ h6 {
 
 /* line 835, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center
+  background: url(../img/elements/success-check.jpg) no-repeat center
     center/cover;
   border: none;
 }
@@ -3172,7 +3172,7 @@ h6 {
 
 /* line 876, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center
+  background: url(../img/elements/disabled-check.jpg) no-repeat center
     center/cover;
   border: none;
 }
@@ -3215,7 +3215,7 @@ h6 {
 
 /* line 913, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center
+  background: url(../img/elements/primary-radio.jpg) no-repeat center
     center/cover;
   border: none;
 }
@@ -3258,7 +3258,7 @@ h6 {
 
 /* line 950, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center
+  background: url(../img/elements/success-radio.jpg) no-repeat center
     center/cover;
   border: none;
 }
@@ -3307,7 +3307,7 @@ h6 {
 
 /* line 991, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center
+  background: url(../img/elements/disabled-radio.jpg) no-repeat center
     center/cover;
   border: none;
 }
